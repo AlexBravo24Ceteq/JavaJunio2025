@@ -18,7 +18,7 @@ public class Condicionales1_JJA {
         } else if (numero2 > numero1) {
             System.out.println(" El segundo número (" + numero2 + ") es mayor que el primero (" + numero1 + ").");
         } else {
-          System.out.println(" Ambos números son iguales.");
+          System.out.println(" Ambos números son iguales.  :)");
       }
 
         scanner.close();
